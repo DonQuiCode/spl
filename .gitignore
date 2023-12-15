@@ -1,0 +1,8 @@
+__pycache__/
+
+.DS_Store
+
+.vscode/
+source/lab2/constants.py
+source/entities/
+source/lab7/credentials.json
